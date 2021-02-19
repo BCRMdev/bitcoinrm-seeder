@@ -1,0 +1,5 @@
+*.o
+dnsseed
+dnsseed.dat
+dnsseed.dump
+dnsstats.log
